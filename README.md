@@ -1,4 +1,4 @@
-🛰️ Aerial Object Detection
+🛰️ AERIAL OBJECT DETECTION
 An AI-powered computer vision application designed to identify and detect Birds 🐦 and Drones 🚁 from aerial images. The project combines TensorFlow-based image classification and YOLO object detection to provide accurate recognition and localization of aerial objects through an interactive Streamlit web application.
 
 Features
@@ -14,53 +14,56 @@ Features
 
 🤖 Deep Learning and Computer Vision based solution
 
-Technologies Used
-Python
+* Technologies Used
+1. Python
 
-TensorFlow / Keras
+2. TensorFlow / Keras
 
-YOLO (Ultralytics)
+3. YOLO (Ultralytics)
 
-OpenCV
+4. OpenCV
 
-NumPy
+5. NumPy
 
-PIL
+6. PIL
 
-Streamlit
+7. Streamlit
 
-Project Workflow
-Upload an aerial image.
+* Project Workflow
 
-Select Classification or Detection mode.
+1. Upload an aerial image.
 
-The model processes the image.
+2. Select Classification or Detection mode.
 
-Receive:
+3. The model processes the image.
 
-Bird/Drone classification results.
+* Receive:
 
-Object detection with bounding boxes and confidence scores.
+1. Bird/Drone classification results.
 
-Visualize predictions directly in the web interface.
+2. Object detection with bounding boxes and confidence scores.
 
-Applications
-UAV Monitoring
+3. Visualize predictions directly in the web interface.
 
-Airspace Surveillance
+* Applications
 
-Wildlife Monitoring
+1. UAV Monitoring
 
-Drone Detection Systems
+2. Airspace Surveillance
 
-Smart Security Solutions
+3. Wildlife Monitoring
 
-Future Improvements
-Real-time video stream detection
+4. Drone Detection Systems
 
-Multi-class aerial object recognition
+5. Smart Security Solutions
 
-Edge-device deployment
+* Future Improvements
+
+1. Real-time video stream detection
+
+2. Multi-class aerial object recognition
+
+3. Edge-device deployment
 
 Model performance optimization
 
